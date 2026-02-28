@@ -1,0 +1,19 @@
+body{
+    background-color: #d1d1d1;
+}
+
+nav{ 
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    background-color: chocolate;
+    padding: 10px;
+}
+
+input{
+    padding: 10px;
+}
+
+
